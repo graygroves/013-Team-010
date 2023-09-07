@@ -3,3 +3,4 @@
 github usernames
 Gray Groves - @graygroves
 Jon Jablonski - @jonajab
+Robert LaChausse - @RobertLBarron
